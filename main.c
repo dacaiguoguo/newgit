@@ -2,6 +2,7 @@
 
 int main(){
 	printf("hello world I'm coming~");
-	printf("you are mine!");
+	printf("you are mine!\n");
+	printf("my name is syg.");
 	return 0;
 }
